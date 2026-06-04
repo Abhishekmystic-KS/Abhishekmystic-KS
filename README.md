@@ -1,4 +1,3 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn: ANd9GcQCsg19T-zPtYhFzt_d3_KuUxhfa5IEjKmz-A&s" alt="MasterHead" />
 <h1 align="center">Hi 👋, I'm Abhishek KS</h1>
 <h3 align="center">A passionate Generative AI Developer & LLM Researcher </h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/13/dc/1f/13dc1f9bd046a5c7825397eaebe1f852.gif">
